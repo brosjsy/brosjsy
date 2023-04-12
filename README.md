@@ -1,8 +1,8 @@
 # Hi there, I'm Joseph - aka [The9coon][youtube] 👋 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/FedXecG20J-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/FedXecG20J-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)](https://youtube.com/@FedXecG20)
 [![Website](https://img.shields.io/website?label=The9coon.com&style=for-the-badge&url=https%3A%2F%2Fasrg.io/)](https://asrg.io/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbrosjsy&screen_name=bros_pappyjay)
+[![Twitter Follow](https://img.shields.io/twitter/follow/The9coon?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbrosjsy&screen_name=bros_pappyjay)
 
 [![Become a Professional Automotive Security Engineer Hacker (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://asrg.io//items?itemName=codestackr.codestackr-theme)
 [![Book To Get Started](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://www.amazon.com/Hacking-Connected-Cars-Techniques-Procedures/dp/1119491800)
@@ -18,17 +18,17 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://linkedin.com/in/cyberhoncho#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://linkedin.com/in/cyberhoncho/#gh-dark-mode-only)
+[![linkedin](./img/globe-light.svg)](https://linkedin.com/in/cyberhoncho#gh-light-mode-only)
+[![linkedin](./img/globe-dark.svg)](https://linkedin.com/in/cyberhoncho/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/FedXecG20#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/FedXecG20#gh-dark-mode-only)
+[![youtube](./img/youtube-light.svg)](https://youtube.com/FedXecG20#gh-light-mode-only)
+[![youtube](./img/youtube-dark.svg)](https://youtube.com/FedXecG20#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/bros_pappyjay#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/bros_pappyjay#gh-dark-mode-only)
+[![twitter](./img/twitter-light.svg)](https://twitter.com/bros_pappyjay#gh-light-mode-only)
+[![twitter](./img/twitter-dark.svg)](https://twitter.com/bros_pappyjay#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/cyberhoncho#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/cyberhoncho#gh-dark-mode-only)
+[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/cyberhoncho#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/cyberhoncho#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
