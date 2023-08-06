@@ -24,12 +24,6 @@ Thank you for visiting my GitHub profile. Let's make cyberspace a safer place, o
 
 [![Become a Professional Automotive Security Engineer Hacker (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://asrg.io//items?itemName=codestackr.codestackr-theme)
 [![Book To Get Started](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://www.amazon.com/Hacking-Connected-Cars-Techniques-Procedures/dp/1119491800)
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently STILL learning CYBERSECURITY && AUTOMOTIVE SECURITY 🤣
-- 👯 I’m looking to collaborate with other Cybersecurity Engineer, Automotive Hackers
-- 🥅 2023 Goals: Learn more about Automotive Hacking, Security Operation
-- ⚡ Fun fact: I love to HACK and RECREATE and Listen to the Culture / Continent
-
 ### Connect with me:
 
 [![linkedin](./img/globe-light.svg)](https://linkedin.com/in/cyberhoncho#gh-light-mode-only)
