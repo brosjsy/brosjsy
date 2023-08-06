@@ -1,4 +1,22 @@
 # Hi there, I'm Joseph - aka [The9coon][youtube] 👋 
+👋 Hi there! I'm , a passionate and driven cybersecurity engineer with a mission to secure the digital world.
+🔒 Security Specialization: Certified Security Analyst with hands-on experience in Splunk and similar SIEM tools. Proficient in incident detection and response, malware analysis, and cyber forensics. Skilled in TCP/IP protocols and analyzing security log data.
+
+💻 Technical Skills: Background in IDS/IPS, Firewall management, EDR, NDR, XDR,splunk and data rest/data in transit encryption. Familiar with Cloudtrail/Cloudwatch and Crowdstrike.
+
+🎯 Goal: My goal is to protect organizations from cyber threats, ensuring compliance with internal controls, regulatory requirements, and information security policies.
+
+🌱 Learning Journey: I'm always eager to stay ahead of the curve by attending workshops, reviewing publications, and embracing technological advancements.
+
+👨‍💼 Collaborative Spirit: I love working in a team environment, taking ownership of tasks, and exploring opportunities to add value.
+
+📈 GitHub Contributions: This GitHub profile is a reflection of my cybersecurity journey. Here, I share projects, scripts, and insights to help others in the community.
+
+🤝 Let's Connect: I'm open to collaborating with like-minded professionals and contributing to cybersecurity discussions. Feel free to reach out and let's secure the digital world together!
+
+🏢 Currently, I'm working at UBA GROUP as a Cybersecurity intern, where I apply my skills to protect valuable information and strengthen our security posture.
+
+Thank you for visiting my GitHub profile. Let's make cyberspace a safer place, one line of code at a time!
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/FedXecG20J-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)](https://youtube.com/@FedXecG20)
 [![Website](https://img.shields.io/website?label=The9coon.com&style=for-the-badge&url=https%3A%2F%2Fasrg.io/)](https://asrg.io/)
@@ -6,11 +24,6 @@
 
 [![Become a Professional Automotive Security Engineer Hacker (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://asrg.io//items?itemName=codestackr.codestackr-theme)
 [![Book To Get Started](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://www.amazon.com/Hacking-Connected-Cars-Techniques-Procedures/dp/1119491800)
-
-
-## I'm an African, Nigerian, Son, Hacker and Student!! welcome to my Github profile, where the automotive world meets my savage hacking skills and my twisted sense of humor . i'm an Automotive hacker and Cybersecurity engineer with significant years of experience in the field and i'm not your average cybersecurity expert. I hack into any car, truck, or vehicle that i can get my hands on, and i'll do it with devilish grin on my face . but dont worry, i'm not out to cause chaos but im just here to expose vulnerabilities that others overlook. when it comes to automotive systems and cybersecurity, i'm learning all tricks . i can reverse engineer firmware, sniff out communications protocols, and bypass any security measure you throw to my way. and if your'e smart enough to hack my code , well let just say The9coon is open to learning more from you Sir. but its not all serious business, i believe that humor is an essential part of life, when it comes to Cybersecurity . so dont be suprised if you find some hilarious memes and sarcastics comments lol sprinkled throughout my projects, on my github profile youll find a collection of project that showcase my Cybersecurity and Automotive skills and my devil-may-care-attitude, i dont play by the rules but i can make my own. and if you are a great leader and mentor enough to collaborate with me, we might just create something legendary, thanks for stopping by, and feel free to reach out if you re interesting in collaborating on a project or if you just want to exchange some witty banter, LET KEEP THE CYBERSECURITY AND AUTOMOTIVE WORLD BOTH SECURE AND SAVAGE BUT NOT RIDICULOUS 
-
-
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently STILL learning CYBERSECURITY && AUTOMOTIVE SECURITY 🤣
 - 👯 I’m looking to collaborate with other Cybersecurity Engineer, Automotive Hackers
