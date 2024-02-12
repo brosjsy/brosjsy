@@ -1,22 +1,5 @@
 # Hi there, I'm Joseph - aka [The9coon][youtube] 👋 
-👋 Hi there! I'm , a passionate and driven cybersecurity engineer with a mission to secure the digital world.
-🔒 Security Specialization: Certified Security Analyst with hands-on experience in Splunk and similar SIEM tools. Proficient in incident detection and response, malware analysis, and cyber forensics. Skilled in TCP/IP protocols and analyzing security log data.
-
-💻 Technical Skills: Background in IDS/IPS, Firewall management, EDR, NDR, XDR,splunk and data rest/data in transit encryption. Familiar with Cloudtrail/Cloudwatch and Crowdstrike.
-
-🎯 Goal: My goal is to protect organizations from cyber threats, ensuring compliance with internal controls, regulatory requirements, and information security policies.
-
-🌱 Learning Journey: I'm always eager to stay ahead of the curve by attending workshops, reviewing publications, and embracing technological advancements.
-
-👨‍💼 Collaborative Spirit: I love working in a team environment, taking ownership of tasks, and exploring opportunities to add value.
-
-📈 GitHub Contributions: This GitHub profile is a reflection of my cybersecurity journey. Here, I share projects, scripts, and insights to help others in the community.
-
-🤝 Let's Connect: I'm open to collaborating with like-minded professionals and contributing to cybersecurity discussions. Feel free to reach out and let's secure the digital world together!
-
-🏢 Currently, I'm working at UBA GROUP as a Cybersecurity intern, where I apply my skills to protect valuable information and strengthen our security posture.
-
-Thank you for visiting my GitHub profile. Let's make cyberspace a safer place, one line of code at a time!
+"Turning Data into Defenses: Crafting Code to Detect Tomorrow's Threats Today"
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/FedXecG20J-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)](https://youtube.com/@FedXecG20)
 [![Website](https://img.shields.io/website?label=The9coon.com&style=for-the-badge&url=https%3A%2F%2Fasrg.io/)](https://asrg.io/)
