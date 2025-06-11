@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hey there, I'm Joseph (aka CyberHoncho)</h1>
-<h3 align="center">💻 Linux Engineer | System Administrator | Scripter | Automation Enthusiast</h3>
+<h1 align="center">👋 Hey there, I'm Joseph </h1>
+<h3 align="center">💻 Linux Engineer | System Administrator | Scripting | OS Hardening | Automation Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cyberhoncho/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"></a>
